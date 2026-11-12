@@ -1,0 +1,12 @@
+# Configuración personal que genera el overlay
+/overlay_pos.txt
+/overlay_tamano.txt
+/overlay_vista.txt
+/overlay_ajustes.json
+/overlay_ajustes.json.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
